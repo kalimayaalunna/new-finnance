@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kas & Inventori Kalimaya Alunna",
+  "description": "Sistem pembukuan kas terintegrasi dengan stockis sediaan gudang dan otomasi laporan berbasis AI Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
